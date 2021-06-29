@@ -2,7 +2,7 @@
  * @Author: Zhao.Li.Nai
  * @Date: 2021-06-23 17:10:52
  * @LastEditors: Zhao.Li.Nai
- * @LastEditTime: 2021-06-23 18:07:47
+ * @LastEditTime: 2021-06-29 10:51:47
 -->
 <template>
   <h2>layout-aside</h2>
@@ -19,7 +19,7 @@
     <el-submenu index="1">
       <template #title>
         <i class="el-icon-location"></i>
-        <span>导航一</span>
+        <span>导航一1</span>
       </template>
       <el-menu-item-group>
         <template #title>分组一</template>
